@@ -1,1 +1,2 @@
 # Basic-py-code
+.py
